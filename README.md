@@ -3,7 +3,10 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam0500&label=Profile%20views&color=0e75b6&style=flat" alt="shivam0500" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 Having Good Command on **Data Structures And Algorithm**
+- 🌱 Having Good Command on **HTML, CSS, Javascript, ReactJS**
+- 🌱 I’m currently learning **Node JS**
+
 <p align="left">
 </p>
 
