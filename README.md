@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Aggarwal</h1>
-<h3 align="center">Competitve Programmer | Full Stack Deveoloper</h3>
+<h3 align="center">Competitve Programmer | Full Stack Developer</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam0500&label=Profile%20views&color=0e75b6&style=flat" alt="shivam0500" /> </p>
 
